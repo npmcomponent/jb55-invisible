@@ -1,0 +1,12 @@
+{
+  "name": "jb55-invisible",
+  "description": "Make an element invisible",
+  "version": "0.0.1",
+  "keywords": [
+    "visibility",
+    "invisible"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
